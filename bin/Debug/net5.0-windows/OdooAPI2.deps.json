@@ -1,0 +1,178 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OdooAPI2/1.0.0": {
+        "dependencies": {
+          "Odoo.XmlRpcAdapter": "1.0.0",
+          "PortaCapena.OdooJsonRpcClient": "1.0.20",
+          "CookComputing.XmlRpcV2": "3.0.0.270"
+        },
+        "runtime": {
+          "OdooAPI2.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "PortaCapena.OdooJsonRpcClient/1.0.20": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PortaCapena.OdooJsonRpcClient.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "Odoo.XmlRpcAdapter/1.0.0": {
+        "dependencies": {
+          "xmlrpc.3.0.0.270": "1.0.0"
+        },
+        "runtime": {
+          "Odoo.XmlRpcAdapter.dll": {}
+        }
+      },
+      "CookComputing.XmlRpcV2/3.0.0.270": {
+        "runtime": {
+          "CookComputing.XmlRpcV2.dll": {
+            "assemblyVersion": "3.0.0.270",
+            "fileVersion": "3.0.0.270"
+          }
+        }
+      },
+      "Figlut.Server.Toolkit45/1.2.1.15": {
+        "runtime": {
+          "Figlut.Server.Toolkit45.dll": {
+            "assemblyVersion": "1.2.1.15",
+            "fileVersion": "1.2.1.15"
+          }
+        }
+      },
+      "Renci.SshNet/2014.4.6.0": {
+        "runtime": {
+          "Renci.SshNet.dll": {
+            "assemblyVersion": "2014.4.6.0",
+            "fileVersion": "2014.4.6.0"
+          }
+        }
+      },
+      "DotRas/1.3.4823.23270": {
+        "runtime": {
+          "DotRas.dll": {
+            "assemblyVersion": "1.3.4823.23270",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      },
+      "Ical.Net/2.1.0.36705": {
+        "runtime": {
+          "Ical.Net.dll": {
+            "assemblyVersion": "2.1.0.36705",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "Ical.Net.Collections/2.1.0.36703": {
+        "runtime": {
+          "Ical.Net.Collections.dll": {
+            "assemblyVersion": "2.1.0.36703",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "NodaTime/1.3.0.0": {
+        "runtime": {
+          "NodaTime.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.1.0"
+          }
+        }
+      },
+      "antlr.runtime/2.7.6.2": {
+        "runtime": {
+          "antlr.runtime.dll": {
+            "assemblyVersion": "2.7.6.2",
+            "fileVersion": "2.7.6.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OdooAPI2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "PortaCapena.OdooJsonRpcClient/1.0.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b2Ufc3uBMmG3XZeAaHsG3MXijNoist9iUULGhuCEarTIYuVWZFkLi4AOepRDN22K8pEnK65kP5vih/Cdrj6hWw==",
+      "path": "portacapena.odoojsonrpcclient/1.0.20",
+      "hashPath": "portacapena.odoojsonrpcclient.1.0.20.nupkg.sha512"
+    },
+    "Odoo.XmlRpcAdapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CookComputing.XmlRpcV2/3.0.0.270": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Figlut.Server.Toolkit45/1.2.1.15": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Renci.SshNet/2014.4.6.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotRas/1.3.4823.23270": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ical.Net/2.1.0.36705": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ical.Net.Collections/2.1.0.36703": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NodaTime/1.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "antlr.runtime/2.7.6.2": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

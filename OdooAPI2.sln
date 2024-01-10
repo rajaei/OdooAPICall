@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdooAPI2", "OdooAPI2.csproj", "{98B134E7-44E9-4E83-BC66-34473F6A1F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odoo.XmlRpcAdapter", "..\Odoo.XmlRpcAdapter\Odoo.XmlRpcAdapter.csproj", "{EE66DE91-811D-41C7-BAE4-AB1F9AF1C8F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlrpc.3.0.0.270", "..\xml-rpc.net.3.0.0.270\src\xmlrpc.3.0.0.270.csproj", "{E34CBF43-8417-41BC-B342-4B06F9CEF0D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98B134E7-44E9-4E83-BC66-34473F6A1F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B134E7-44E9-4E83-BC66-34473F6A1F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B134E7-44E9-4E83-BC66-34473F6A1F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B134E7-44E9-4E83-BC66-34473F6A1F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE66DE91-811D-41C7-BAE4-AB1F9AF1C8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE66DE91-811D-41C7-BAE4-AB1F9AF1C8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE66DE91-811D-41C7-BAE4-AB1F9AF1C8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE66DE91-811D-41C7-BAE4-AB1F9AF1C8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E34CBF43-8417-41BC-B342-4B06F9CEF0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34CBF43-8417-41BC-B342-4B06F9CEF0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34CBF43-8417-41BC-B342-4B06F9CEF0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34CBF43-8417-41BC-B342-4B06F9CEF0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C1CB885-8186-4B97-82DF-82FA1CF7FAC8}
+	EndGlobalSection
+EndGlobal

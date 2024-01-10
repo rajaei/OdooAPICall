@@ -1,0 +1,11 @@
+﻿test-database
+logging-in
+calling-methods,Model:string,Function:string,Parameters:string:comma
+list-records,Model:string,ConditonFile:inputFile
+count-records,Model:string,ConditonFile:inputFile
+read-records
+list-record-fields
+search-and-read
+create-records,Model:string,KeyValueFile:inputFile
+update-records
+delete-records

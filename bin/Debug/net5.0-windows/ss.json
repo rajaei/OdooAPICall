@@ -1,0 +1,3 @@
+{"HEAD":"","DES_URL":"http://192.1.104.42/Service/api/mis/SendTelToCGL","SRC_URL":"","BODYS":{"TelDate":"14020420101918","TelId":3501,"UserId":"L3","SenderId":3,
+      "ReceiverId":2,"StopId":"13769","TELSTATUS":"1","NOTOKCODE":"97","NOTOKDESC":"" },"DATES":"14020420101918",
+                           "IDS":"3501","ACK_KEY":"126614189","LOGIN_ENABLE":"0","LOGIN_USR":"","LOGIN_PASS":"","P_HOST":"CGL","TAIL":""}

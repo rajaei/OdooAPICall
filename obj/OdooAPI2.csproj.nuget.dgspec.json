@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\OdooAPI2\\OdooAPI2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\Odoo.XmlRpcAdapter\\Odoo.XmlRpcAdapter.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\Odoo.XmlRpcAdapter\\Odoo.XmlRpcAdapter.csproj",
+        "projectName": "Odoo.XmlRpcAdapter",
+        "projectPath": "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\Odoo.XmlRpcAdapter\\Odoo.XmlRpcAdapter.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\xml-rpc.net.3.0.0.270\\src\\xmlrpc.3.0.0.270.csproj": {
+                "projectPath": "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\xml-rpc.net.3.0.0.270\\src\\xmlrpc.3.0.0.270.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\OdooAPI2\\OdooAPI2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\OdooAPI2\\OdooAPI2.csproj",
+        "projectName": "OdooAPI2",
+        "projectPath": "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\OdooAPI2\\OdooAPI2.csproj",
+        "packagesPath": "C:\\Users\\Masoud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\OdooAPI2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Masoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\Odoo.XmlRpcAdapter\\Odoo.XmlRpcAdapter.csproj": {
+                "projectPath": "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\Odoo.XmlRpcAdapter\\Odoo.XmlRpcAdapter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "PortaCapena.OdooJsonRpcClient": {
+              "target": "Package",
+              "version": "[1.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\xml-rpc.net.3.0.0.270\\src\\xmlrpc.3.0.0.270.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\xml-rpc.net.3.0.0.270\\src\\xmlrpc.3.0.0.270.csproj",
+        "projectName": "xmlrpc.3.0.0.270",
+        "projectPath": "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\xml-rpc.net.3.0.0.270\\src\\xmlrpc.3.0.0.270.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ajG4LuNzXse9Rd4zY3Om45q+XbBgOhxYgc6nl99QygcMV5V9ScW2+OwZyzu60uijn+DnJtQ6Zn8CGmKRNgv1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Masoud\\Desktop\\OdooAPICall\\OdooAPI2\\OdooAPI2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Masoud\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Masoud\\.nuget\\packages\\portacapena.odoojsonrpcclient\\1.0.20\\portacapena.odoojsonrpcclient.1.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
